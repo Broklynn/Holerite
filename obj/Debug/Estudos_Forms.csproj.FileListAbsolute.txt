@@ -1,0 +1,24 @@
+C:\Users\Murdoc\OneDrive - SENAC - SP\Área de Trabalho\Nova pasta\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.csproj.AssemblyReference.cache
+C:\Users\Murdoc\OneDrive - SENAC - SP\Área de Trabalho\Nova pasta\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.Form1.resources
+C:\Users\Murdoc\OneDrive - SENAC - SP\Área de Trabalho\Nova pasta\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.Properties.Resources.resources
+C:\Users\Murdoc\OneDrive - SENAC - SP\Área de Trabalho\Nova pasta\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.csproj.GenerateResource.cache
+C:\Users\Murdoc\OneDrive - SENAC - SP\Área de Trabalho\Nova pasta\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.csproj.CoreCompileInputs.cache
+C:\Users\Murdoc\OneDrive - SENAC - SP\Área de Trabalho\Nova pasta\Estudos_Forms\Estudos_Forms\bin\Debug\Estudos_Forms.exe.config
+C:\Users\Murdoc\OneDrive - SENAC - SP\Área de Trabalho\Nova pasta\Estudos_Forms\Estudos_Forms\bin\Debug\Estudos_Forms.exe
+C:\Users\Murdoc\OneDrive - SENAC - SP\Área de Trabalho\Nova pasta\Estudos_Forms\Estudos_Forms\bin\Debug\Estudos_Forms.pdb
+C:\Users\Murdoc\OneDrive - SENAC - SP\Área de Trabalho\Nova pasta\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.exe
+C:\Users\Murdoc\OneDrive - SENAC - SP\Área de Trabalho\Nova pasta\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.pdb
+C:\Users\Murdoc\OneDrive - SENAC - SP\Área de Trabalho\Nova pasta\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.Form2.resources
+C:\Users\Murdoc\OneDrive - SENAC - SP\Área de Trabalho\Nova pasta\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.Form3.resources
+C:\Users\gabriel.msilva140\source\repos\Estudos_Forms\Estudos_Forms\bin\Debug\Estudos_Forms.exe.config
+C:\Users\gabriel.msilva140\source\repos\Estudos_Forms\Estudos_Forms\bin\Debug\Estudos_Forms.exe
+C:\Users\gabriel.msilva140\source\repos\Estudos_Forms\Estudos_Forms\bin\Debug\Estudos_Forms.pdb
+C:\Users\gabriel.msilva140\source\repos\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.csproj.AssemblyReference.cache
+C:\Users\gabriel.msilva140\source\repos\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.Form1.resources
+C:\Users\gabriel.msilva140\source\repos\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.Form2.resources
+C:\Users\gabriel.msilva140\source\repos\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.Form3.resources
+C:\Users\gabriel.msilva140\source\repos\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.Properties.Resources.resources
+C:\Users\gabriel.msilva140\source\repos\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.csproj.GenerateResource.cache
+C:\Users\gabriel.msilva140\source\repos\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.msilva140\source\repos\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.exe
+C:\Users\gabriel.msilva140\source\repos\Estudos_Forms\Estudos_Forms\obj\Debug\Estudos_Forms.pdb
